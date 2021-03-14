@@ -1,6 +1,6 @@
 "UnlitGeneric" 
 { 
-	"$basetexture"		"vgui/entities/monster_parasite" 
+	"$basetexture"		"vgui/entities/item_antidote" 
 	"$vertexcolor" 		1 
 	"$vertexalpha" 		1 
 	"$nolod" 			1 

@@ -1,0 +1,22 @@
+//Format:
+//Childbone = Parentbone
+
+front_right_leg = front_right_hip
+front_left_leg = front_left_hip
+jaw = head
+head = spine2
+neck = spine2
+spine2 = spine2
+spine1 = spine2
+front_right_thigh = spine2
+front_left_thigh = spine2
+front_left_hip = spine2
+front_right_hip = spine2
+rear_right_hip = spine1
+rear_left_hip = spine1
+rear_right_thigh = spine1
+rear_right_leg = rear_right_hip
+rear_left_thigh = spine1
+rear_left_leg = rear_left_hip
+rear_right_ankle = rear_right_leg
+rear_left_ankle = rear_left_leg

@@ -1,0 +1,22 @@
+//Format:
+//Childbone = Parentbone
+
+Bone44 = Bone43
+Bone43 = Bone42
+Bone42 = Bone41
+Bone41 = Bone40
+Bone40 = Bone39
+Bone39 = Bip01 Pelvis
+Bip01 Pelvis = Bip01 Pelvis
+Bip01 L Foot = Bip01 L Calf
+Bip01 L Calf = Bip01 L Thigh
+Bip01 L Thigh = Bip01 Pelvis
+Bip01 R Foot = Bip01 R Calf
+Bip01 R Calf = Bip01 R Thigh
+Bip01 R Thigh = Bip01 Pelvis
+Bone01 = Bip01 Spine
+Bone07 = Bip01 Spine
+Bone25 = Bip01 Spine
+Bone31 = Bip01 Spine
+Bone19 = Bip01 Spine
+Bip01 Spine = Bip01 Pelvis

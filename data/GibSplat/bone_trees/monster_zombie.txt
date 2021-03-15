@@ -1,0 +1,18 @@
+//Format:
+//Childbone = Parentbone
+
+Bip01 Pelvis = Bip01 Spine2
+Bip01 Spine2 = Bip01 Spine2
+Bip01 R UpperArm = Bip01 Spine2
+Bip01 L UpperArm = Bip01 Spine2
+Bip01 L ForeArm = Bip01 L UpperArm
+Bip01 L Hand = Bip01 L ForeArm
+Bip01 R ForeArm = Bip01 R UpperArm
+Bip01 R Hand = Bip01 R ForeArm
+Bip01 R Thigh = Bip01 Pelvis
+Bip01 R Calf = Bip01 R Thigh
+Bip01 Head = Bip01 Spine2
+Bip01 L Thigh = Bip01 Pelvis
+Bip01 L Calf = Bip01 L Thigh
+Bip01 L Foot = Bip01 L Calf
+Bip01 R Foot = Bip01 R Calf

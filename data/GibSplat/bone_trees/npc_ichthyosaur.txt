@@ -1,0 +1,17 @@
+//Format:
+//Childbone = Parentbone
+
+joint7 = joint6
+joint6 = joint5
+joint5 = joint4
+joint4 = joint3
+joint3 = joint2
+joint2 = ichthyosaur.body_cnl_ori_parent
+ichthyosaur.body_cnl_ori_parent = ichthyosaur.body_cnl_ori_parent
+joint10 = joint11
+joint11 = r_arm
+r_arm = ichthyosaur.body_cnl_ori_parent
+joint13 = joint12
+joint12 = l_arm
+l_arm = ichthyosaur.body_cnl_ori_parent
+jaw = ichthyosaur.body_cnl_ori_parent

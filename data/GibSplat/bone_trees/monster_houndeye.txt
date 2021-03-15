@@ -1,0 +1,11 @@
+//Format:
+//Childbone = Parentbone
+
+Bip01 R Arm2 = Bip01 R Arm1
+Bip01 L Arm2 = Bip01 L Arm1
+Bip01 L Arm1 = Bip01 Spine1
+Bip01 R Arm1 = Bip01 Spine1
+Bip01 Spine1 = Bip01 Spine1
+Bip01 Pelvis = Bip01 Spine1
+Bip01 L Leg1 = Bip01 L Leg
+Bip01 L Leg = Bip01 Pelvis
